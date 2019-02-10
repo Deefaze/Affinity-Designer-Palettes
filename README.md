@@ -18,6 +18,10 @@ In my work, like many people, i need to make lots of website sketch/présentatio
 - Spectre.css.afpalette       :  7 colors from [Spectre](https://picturepan2.github.io/spectre/) default theme {prefix **spectre-**}
 - Uikit.com.afpalette         : 12 colors from [UI Kit](https://getuikit.com/) default theme {prefix **uikit-**}
 
+*- Kube.afpalette*
+*- Foundation.afpalette*
+*- Semantic-UI.afpalette*
+
 ### Others :
 - Brands.afpalette            : 70+ brands colors (Affinity, Apple, Google, Microsoft, Amazon, Coca-Cola...)
 - FlatUI 2 Japan.afpalette    : 20 colors of Japan Flat UI 2
