@@ -1,4 +1,4 @@
-# d-af-palette
+# AFFINITY DESIGNER PALETTES
 [Affinity Designer](https://affinity.serif.com/fr/designer/) Palettes files
 
 ---
